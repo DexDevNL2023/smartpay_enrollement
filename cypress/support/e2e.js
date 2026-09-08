@@ -17,9 +17,4 @@
 import "./commands";
 
 // Importez les autres commandes
-import "./authentification.commands";
-import "./cards.commands";
 import "./enrollement.commands";
-import "./recharge-compte.commands";
-import "./send-money.commands";
-import "./services.commands";
